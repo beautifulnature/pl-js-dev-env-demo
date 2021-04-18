@@ -1,2 +1,16 @@
 == code formatting
 prettier or editorconfig (^)
+
+== share wip
+=== localtunnel
+npm install localtunnel -g
+
+lt --port 3000 --subdomain gumpini
+=== ngrok
+=== surge
+=== vercel
+
+== automation
+=== grunt
+=== gulp
+=== npm
