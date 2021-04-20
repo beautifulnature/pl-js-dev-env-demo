@@ -1,4 +1,4 @@
-// import './index.css'
+import './index.css'
 
 /* eslint-disable no-console */
 
